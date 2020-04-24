@@ -1,1 +1,24 @@
 theme: jekyll-theme-midnight
+
+plugins:
+  - jekyll-spaceship
+  - jekyll-commonmark-ghpages
+  - jekyll-pug
+  - jekyll-loading-lazy
+  - jekyll-redirect-from
+  - jekyll-readme-index
+
+markdown: CommonMarkGhPages
+
+commonmark:
+  options: ["GITHUB_PRE_LANG", "SMART", "FOOTNOTES", "VALIDATE_UTF8"]
+  extensions: ["table", "tasklist", "strikethrough", "autolink", ]
+
+readme_index:
+  enabled:          true
+  with_frontmatter: true
+  remove_originals: false
+  
+relative_links:
+  enabled:     true
+  collections: true
