@@ -12,7 +12,7 @@ markdown: CommonMarkGhPages
 
 commonmark:
   options: ["GITHUB_PRE_LANG", "SMART", "FOOTNOTES", "VALIDATE_UTF8"]
-  extensions: ["table", "tasklist", "strikethrough", "autolink", ]
+  extensions: ["table", "tasklist", "strikethrough", "autolink"]
 
 readme_index:
   enabled:          true
