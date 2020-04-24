@@ -16,15 +16,15 @@ This document describes only differences.
 *Examples* \d -> 1, *or* 1\d\d -> 10
 
 ### Differences from SimVer
-- MAJOR \
+- `MAJOR` \
   Defined as **YEAR-OF-RELEASE** \
   *Format* \d\d\d\d (YYYY) \
   *Example* 2020
-- MINOR \
+- `MINOR` \
   Defined as **CALENDER-WEEK** \
   *Format* \d\d
   *Examples* 01 = first calender week
-- PATCH \
+- `PATCH` \
   Same as SimVer: a **DIGIT** incremented by 1 starts from 0 
 
 
