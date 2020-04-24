@@ -22,3 +22,6 @@ readme_index:
 relative_links:
   enabled:     true
   collections: true
+
+whitelist:
+  - jekyll-redirect-from
