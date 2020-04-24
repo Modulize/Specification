@@ -8,8 +8,10 @@
 - Next **0.1.1-alpha**
 
 ### Authors
-- Sara Tasche
-  + https://github.com/sa-tasche
-- @mitgedanken
-  + https://github.com/mitgedanken
+- Maintainer
+  + Sara Tasche
+    - https://github.com/sa-tasche
+  + Organizations
+    - mitgedanken
+      + https://github.com/mitgedanken
 
