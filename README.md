@@ -1,15 +1,22 @@
 # Modulize - PHP's way of modulizing
+
+|   Version   |  Status  |
+| ----------- | -------- |
+|  0.2020.0-0 |  Draft   |
+
+**Note** \
+  Any part of this specification will have it's own version
+
 ## About
-Version = **0.2020.0** \
-<!> Any part of this specification will have it's own version <!>
 
-Written by [Sara Tasche](https://github.com/sa-tasche) \
-Read about it's [license](LICENSE) \
-![CC0](https://licensebuttons.net/p/zero/1.0/80x15.png)
+- Written by [Sara Tasche](https://github.com/sa-tasche)
+- [Read it's License](LICENSE) \
+  ![CC0](https://licensebuttons.net/p/88x31.png)
 
-### Specifications
-- *Work in progress*
-  - [Version](about_version.md)
-  - [Moggy](moggy.md) Configuration File Format
-  - Implementation
-  - ...
+## Specifications
+*Work in progress*
+
+- [Version](about_version.md)
+- [Moggy](moggy.md) Configuration File Format
+- Implementation
+- ...
