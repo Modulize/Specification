@@ -1,10 +1,9 @@
 ---
-name:  Bug report
-about: Create a report to help us to improve
-title: Short Title
-label: bug
-assignees:
-  - YOUR USER NAME
+name:   Bug report
+about:  Create a report to help us to improve
+title:  "[BUG] = "
+labels: bug-report
+
 ---
 
 # Bug Report
@@ -14,7 +13,6 @@ assignees:
 |  YY-MM-DD  |  LOW, MEDIUM, HIGH  |
 
 ## Description
-
 A clear and concise description of what the bug is.
 
 ## Expected behavior
