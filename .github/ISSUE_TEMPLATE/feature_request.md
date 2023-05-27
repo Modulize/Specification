@@ -1,20 +1,33 @@
 ---
-name: Feature request
+name:  Feature request
 about: Suggest an idea for this project
 title: "[Feature] = "
-labels: question
-assignees: ''
-
+labels:
+  - feature-request
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+# Feature Request
 
-**Describe the solution you'd like**
+|   Author    |  Status               |   Discussion   |
+| ----------- | --------------------- | -------------- |
+|  Your Name  |  [Status](status.md)  |  [Link]        |
+
+- [x] This is related to a problem
+  - A clear and concise description of what the problem is.\
+    Ex. I'm always frustrated when [...]
+    
+- [x] This is an update or change request
+  - List of related feature requests
+
+## Solution
+
 A clear and concise description of what you want to happen.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+## Considerations
 
-**Additional context**
+A clear and concise description of any alternative
+solutions or features you've considered.
+
+## Additional context
+
 Add any other context or screenshots about the feature request here.
